@@ -1,6 +1,40 @@
 {
     "logs": [
         {
+            "outputFile": "/mnt/one/Sources/systemtool/system_install_m/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5f7f2f16ec9a2b697db6f31062b65251/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/mnt/one/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/c710ceb5fc774373970fdc88d3b3c56c/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/mnt/one/XposedInstaller/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {

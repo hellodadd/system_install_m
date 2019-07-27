@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "/mnt/one/Sources/systemtool/system_install_m/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5f7f2f16ec9a2b697db6f31062b65251/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/mnt/one/XposedInstaller/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {

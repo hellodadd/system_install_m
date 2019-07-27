@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.system.android.systemtool.installer"
+    package="com.system.android.sysoperation.installer"
     android:versionCode="43"
     android:versionName="3.1.5" >
 
@@ -16,14 +16,14 @@
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
 
     <application
-        android:name="com.system.android.systemtool.installer.SystemToolApp"
+        android:name="com.system.android.sysoperation.installer.SysOperationApp"
         android:allowBackup="false"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/Theme.SystemToolInstaller.Light" >
+        android:theme="@style/Theme.SysOperationInstaller.Light" >
         <activity
-            android:name="com.system.android.systemtool.installer.WelcomeActivity"
+            android:name="com.system.android.sysoperation.installer.WelcomeActivity"
             android:configChanges="orientation|screenSize"
             android:exported="true"
             android:label="@string/app_name" >
@@ -34,12 +34,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.system.android.systemtool.installer.DownloadDetailsActivity"
+            android:name="com.system.android.sysoperation.installer.DownloadDetailsActivity"
             android:configChanges="orientation|screenSize"
             android:exported="true"
-            android:theme="@style/Theme.SystemToolInstaller.Transparent" >
+            android:theme="@style/Theme.SysOperationInstaller.Transparent" >
             <intent-filter>
-                <action android:name="com.system.android.systemtool.installer.DOWNLOAD_DETAILS" />
+                <action android:name="com.system.android.sysoperation.installer.DOWNLOAD_DETAILS" />
 
                 <data android:scheme="package" />
 
@@ -49,7 +49,7 @@
                 <action android:name="android.intent.action.VIEW" />
 
                 <data
-                    android:host="repo.systemtool.info"
+                    android:host="repo.sysoperation.info"
                     android:pathPrefix="/module/"
                     android:scheme="http" />
 
@@ -58,24 +58,24 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.system.android.systemtool.installer.SettingsActivity"
-            android:theme="@style/Theme.SystemToolInstaller.Transparent" />
+            android:name="com.system.android.sysoperation.installer.SettingsActivity"
+            android:theme="@style/Theme.SysOperationInstaller.Transparent" />
         <activity
-            android:name="com.system.android.systemtool.installer.SupportActivity"
-            android:theme="@style/Theme.SystemToolInstaller.Transparent" />
+            android:name="com.system.android.sysoperation.installer.SupportActivity"
+            android:theme="@style/Theme.SysOperationInstaller.Transparent" />
         <activity
-            android:name="com.system.android.systemtool.installer.AboutActivity"
-            android:theme="@style/Theme.SystemToolInstaller.Transparent" />
+            android:name="com.system.android.sysoperation.installer.AboutActivity"
+            android:theme="@style/Theme.SysOperationInstaller.Transparent" />
         <activity
-            android:name="com.system.android.systemtool.installer.ModulesBookmark"
-            android:theme="@style/Theme.SystemToolInstaller.Transparent" />
+            android:name="com.system.android.sysoperation.installer.ModulesBookmark"
+            android:theme="@style/Theme.SysOperationInstaller.Transparent" />
         <activity
-            android:name="com.system.android.systemtool.installer.installation.InstallationActivity"
+            android:name="com.system.android.sysoperation.installer.installation.InstallationActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/Theme.SystemToolInstaller.Transparent" />
+            android:theme="@style/Theme.SysOperationInstaller.Transparent" />
 
         <receiver
-            android:name="com.system.android.systemtool.installer.receivers.PackageChangeReceiver"
+            android:name="com.system.android.sysoperation.installer.receivers.PackageChangeReceiver"
             android:exported="false" >
             <intent-filter>
                 <action android:name="android.intent.action.PACKAGE_ADDED" />
@@ -86,7 +86,7 @@
             </intent-filter>
         </receiver>
         <receiver
-            android:name="com.system.android.systemtool.installer.receivers.DownloadReceiver"
+            android:name="com.system.android.sysoperation.installer.receivers.DownloadReceiver"
             android:exported="true"
             android:permission="android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS" >
             <intent-filter>
@@ -94,12 +94,12 @@
             </intent-filter>
         </receiver>
         <receiver
-            android:name="com.system.android.systemtool.installer.util.NotificationUtil$RebootReceiver"
+            android:name="com.system.android.sysoperation.installer.util.NotificationUtil$RebootReceiver"
             android:exported="false" />
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.system.android.systemtool.installer.fileprovider"
+            android:authorities="com.system.android.sysoperation.installer.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data

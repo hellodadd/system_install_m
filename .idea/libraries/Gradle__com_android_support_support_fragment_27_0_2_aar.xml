@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-fragment:27.0.2@aar">
+    <CLASSES>
+      <root url="jar:///mnt/one/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7eb990d8acf79c8fd975c399f32bd659/jars/classes.jar!/" />
+      <root url="file:///mnt/one/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7eb990d8acf79c8fd975c399f32bd659/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///mnt/one/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/27.0.2/659085cb974e7ec1f25451d23f11578332ea0d7e/support-fragment-27.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

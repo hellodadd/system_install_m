@@ -1,4 +1,4 @@
-com.system.android.systemtool.installer
+com.system.android.sysoperation.installer
 int anim abc_fade_in 0x7f010000
 int anim abc_fade_out 0x7f010001
 int anim abc_grow_fade_in_from_bottom 0x7f010002
@@ -1380,7 +1380,7 @@ int layout select_dialog_multichoice_material 0x7f0b0061
 int layout select_dialog_singlechoice_material 0x7f0b0062
 int layout status_installer 0x7f0b0063
 int layout support_simple_spinner_dropdown_item 0x7f0b0064
-int layout systemtool_not_active_note 0x7f0b0065
+int layout sysoperation_not_active_note 0x7f0b0065
 int layout tab_about 0x7f0b0066
 int layout tab_downloader 0x7f0b0067
 int layout tab_logs 0x7f0b0068
@@ -1603,7 +1603,7 @@ int string no_bookmark_added 0x7f0f00b0
 int string no_enabled_modules 0x7f0f00b1
 int string no_installed_modules 0x7f0f00b2
 int string no_min_version_specified 0x7f0f00b3
-int string no_systemtool_modules_found 0x7f0f00b4
+int string no_sysoperation_modules_found 0x7f0f00b4
 int string not_now 0x7f0f00b5
 int string notices_close 0x7f0f00b6
 int string notices_default_style 0x7f0f00b7
@@ -1652,8 +1652,8 @@ int string settings_theme_dark 0x7f0f00e1
 int string settings_theme_light 0x7f0f00e2
 int string share 0x7f0f00e3
 int string show_outdated 0x7f0f00e4
-int string skip_systemtoolminversion_check 0x7f0f00e5
-int string skip_systemtoolminversion_check_summ 0x7f0f00e6
+int string skip_sysoperationminversion_check 0x7f0f00e5
+int string skip_sysoperationminversion_check_summ 0x7f0f00e6
 int string soft_reboot 0x7f0f00e7
 int string status 0x7f0f00e8
 int string status_bar_notification_info_overflow 0x7f0f00e9
@@ -1665,12 +1665,12 @@ int string support_faq_url 0x7f0f00ee
 int string support_framework_label 0x7f0f00ef
 int string support_modules_description 0x7f0f00f0
 int string support_modules_label 0x7f0f00f1
-int string systemtool_module_list_updated 0x7f0f00f2
-int string systemtool_module_updated_notification 0x7f0f00f3
-int string systemtool_module_updated_notification_title 0x7f0f00f4
-int string systemtool_not_active 0x7f0f00f5
-int string systemtool_off_next_reboot 0x7f0f00f6
-int string systemtool_on_next_reboot 0x7f0f00f7
+int string sysoperation_module_list_updated 0x7f0f00f2
+int string sysoperation_module_updated_notification 0x7f0f00f3
+int string sysoperation_module_updated_notification_title 0x7f0f00f4
+int string sysoperation_not_active 0x7f0f00f5
+int string sysoperation_off_next_reboot 0x7f0f00f6
+int string sysoperation_on_next_reboot 0x7f0f00f7
 int string this_may_take_a_while 0x7f0f00f8
 int string translator 0x7f0f00f9
 int string undo 0x7f0f00fa
@@ -1683,7 +1683,7 @@ int string view 0x7f0f0100
 int string warning_forward_locked 0x7f0f0101
 int string warning_installed_on_external_storage 0x7f0f0102
 int string warning_min_version_too_low 0x7f0f0103
-int string warning_systemtool_min_version 0x7f0f0104
+int string warning_sysoperation_min_version 0x7f0f0104
 int string welcome_framework_update_available 0x7f0f0105
 int style AlertDialog_AppCompat 0x7f100000
 int style AlertDialog_AppCompat_Light 0x7f100001
@@ -1987,13 +1987,13 @@ int style Theme_Design_Light 0x7f10012a
 int style Theme_Design_Light_BottomSheetDialog 0x7f10012b
 int style Theme_Design_Light_NoActionBar 0x7f10012c
 int style Theme_Design_NoActionBar 0x7f10012d
-int style Theme_SystemToolInstaller_Dark 0x7f10012e
-int style Theme_SystemToolInstaller_Dark_Base 0x7f10012f
-int style Theme_SystemToolInstaller_Dark_Black 0x7f100130
-int style Theme_SystemToolInstaller_Light 0x7f100131
-int style Theme_SystemToolInstaller_Light_Base 0x7f100132
-int style Theme_SystemToolInstaller_Toolbar 0x7f100133
-int style Theme_SystemToolInstaller_Transparent 0x7f100134
+int style Theme_SysOperationInstaller_Dark 0x7f10012e
+int style Theme_SysOperationInstaller_Dark_Base 0x7f10012f
+int style Theme_SysOperationInstaller_Dark_Black 0x7f100130
+int style Theme_SysOperationInstaller_Light 0x7f100131
+int style Theme_SysOperationInstaller_Light_Base 0x7f100132
+int style Theme_SysOperationInstaller_Toolbar 0x7f100133
+int style Theme_SysOperationInstaller_Transparent 0x7f100134
 int style ThemeOverlay_AppCompat 0x7f100135
 int style ThemeOverlay_AppCompat_ActionBar 0x7f100136
 int style ThemeOverlay_AppCompat_Dark 0x7f100137
