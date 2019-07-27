@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.system.android.systemtool.installer"
+    android:versionCode="43"
+    android:versionName="3.1.5" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+
+    <application
+        android:name="com.system.android.systemtool.installer.SystemToolApp"
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.SystemToolInstaller.Light" >
+        <activity
+            android:name="com.system.android.systemtool.installer.WelcomeActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="true"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.system.android.systemtool.installer.DownloadDetailsActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="true"
+            android:theme="@style/Theme.SystemToolInstaller.Transparent" >
+            <intent-filter>
+                <action android:name="com.system.android.systemtool.installer.DOWNLOAD_DETAILS" />
+
+                <data android:scheme="package" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <data
+                    android:host="repo.systemtool.info"
+                    android:pathPrefix="/module/"
+                    android:scheme="http" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.system.android.systemtool.installer.SettingsActivity"
+            android:theme="@style/Theme.SystemToolInstaller.Transparent" />
+        <activity
+            android:name="com.system.android.systemtool.installer.SupportActivity"
+            android:theme="@style/Theme.SystemToolInstaller.Transparent" />
+        <activity
+            android:name="com.system.android.systemtool.installer.AboutActivity"
+            android:theme="@style/Theme.SystemToolInstaller.Transparent" />
+        <activity
+            android:name="com.system.android.systemtool.installer.ModulesBookmark"
+            android:theme="@style/Theme.SystemToolInstaller.Transparent" />
+        <activity
+            android:name="com.system.android.systemtool.installer.installation.InstallationActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.SystemToolInstaller.Transparent" />
+
+        <receiver
+            android:name="com.system.android.systemtool.installer.receivers.PackageChangeReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_CHANGED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.system.android.systemtool.installer.receivers.DownloadReceiver"
+            android:exported="true"
+            android:permission="android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS" >
+            <intent-filter>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.system.android.systemtool.installer.util.NotificationUtil$RebootReceiver"
+            android:exported="false" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.system.android.systemtool.installer.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+    </application>
+
+</manifest>

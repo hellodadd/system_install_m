@@ -1,0 +1,207 @@
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/73d3a369f284584cb9aabe8f80ab4cee/res/layout/design_bottom_navigation_item.xml:0
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/73d3a369f284584cb9aabe8f80ab4cee/res/layout/design_navigation_item.xml:0
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/73d3a369f284584cb9aabe8f80ab4cee/res/layout/design_navigation_menu.xml:0
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/73d3a369f284584cb9aabe8f80ab4cee/res/layout/design_layout_snackbar_include.xml:0
+-keep class android.support.design.internal.SnackbarContentLayout { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/activity_download_details.xml:0
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/73d3a369f284584cb9aabe8f80ab4cee/res/layout/design_text_input_password_icon.xml:0
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/73d3a369f284584cb9aabe8f80ab4cee/res/layout/design_bottom_sheet_dialog.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/activity_download_details.xml:0
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/activity_welcome.xml:0
+-keep class android.support.design.widget.NavigationView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/73d3a369f284584cb9aabe8f80ab4cee/res/layout-sw600dp-v13/design_layout_snackbar.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/73d3a369f284584cb9aabe8f80ab4cee/res/layout/design_layout_snackbar.xml:0
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/activity_download_details.xml:0
+-keep class android.support.design.widget.TabLayout { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/build/intermediates/manifests/full/release/AndroidManifest.xml:99
+-keep class android.support.v4.content.FileProvider { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/activity_download_details.xml:0
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/activity_welcome.xml:0
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_alert_dialog_material.xml:0
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_alert_dialog_button_bar_material.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_alert_dialog_material.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_alert_dialog_title_material.xml:0
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/status_installer.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/tab_downloader.xml:0
+-keep class android.support.v4.widget.SwipeRefreshLayout { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_select_dialog_material.xml:0
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_action_menu_item_layout.xml:0
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_expanded_menu_layout.xml:0
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_list_menu_item_layout.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_popup_menu_item_layout.xml:0
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_action_mode_bar.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_action_menu_layout.xml:0
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_activity_chooser_view.xml:0
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_alert_dialog_material.xml:0
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout-ldrtl-v17/md_listitem_multichoice.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_listitem_multichoice.xml:0
+-keep class android.support.v7.widget.AppCompatCheckBox { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout-ldrtl-v17/md_listitem_singlechoice.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_listitem_singlechoice.xml:0
+-keep class android.support.v7.widget.AppCompatRadioButton { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_alert_dialog_button_bar_material.xml:0
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/activity_installation.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/download_moreinfo.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/framework_zip_group.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/list_item_module.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/list_item_version.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/status_installer.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/systemtool_not_active_note.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/tab_about.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/tab_support.xml:0
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_screen_content_include.xml:0
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_alert_dialog_title_material.xml:0
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_screen_simple_overlay_action_mode.xml:0
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_dialog_title_material.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_screen_simple.xml:0
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_dialog_list.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_dialog_list_check.xml:0
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_search_view.xml:0
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/status_installer.xml:0
+-keep class android.support.v7.widget.SwitchCompat { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_screen_toolbar.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/activity_download_details.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/toolbar.xml:0
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_screen_simple.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/layout/abc_screen_simple_overlay_action_mode.xml:0
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/commons-0.9.0.2.aar/183f346114946f772977f2b637ac98cd/res/layout/md_stub_colorchooser_grid.xml:0
+-keep class com.afollestad.materialdialogs.color.FillGridView { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_stub_actionbuttons.xml:0
+-keep class com.afollestad.materialdialogs.internal.MDButton { <init>(...); }
+
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_dialog_basic.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_dialog_basic_check.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_dialog_custom.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_dialog_input.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_dialog_input_check.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_dialog_list.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_dialog_list_check.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_dialog_progress.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_dialog_progress_indeterminate.xml:0
+# Referenced at /mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/layout/md_dialog_progress_indeterminate_horizontal.xml:0
+-keep class com.afollestad.materialdialogs.internal.MDRootLayout { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/build/intermediates/manifests/full/release/AndroidManifest.xml:65
+-keep class com.system.android.systemtool.installer.AboutActivity { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/build/intermediates/manifests/full/release/AndroidManifest.xml:35
+-keep class com.system.android.systemtool.installer.DownloadDetailsActivity { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/build/intermediates/manifests/full/release/AndroidManifest.xml:68
+-keep class com.system.android.systemtool.installer.ModulesBookmark { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/build/intermediates/manifests/full/release/AndroidManifest.xml:59
+-keep class com.system.android.systemtool.installer.SettingsActivity { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/build/intermediates/manifests/full/release/AndroidManifest.xml:62
+-keep class com.system.android.systemtool.installer.SupportActivity { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/build/intermediates/manifests/full/release/AndroidManifest.xml:18
+-keep class com.system.android.systemtool.installer.SystemToolApp { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/build/intermediates/manifests/full/release/AndroidManifest.xml:24
+-keep class com.system.android.systemtool.installer.WelcomeActivity { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/build/intermediates/manifests/full/release/AndroidManifest.xml:71
+-keep class com.system.android.systemtool.installer.installation.InstallationActivity { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/build/intermediates/manifests/full/release/AndroidManifest.xml:87
+-keep class com.system.android.systemtool.installer.receivers.DownloadReceiver { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/build/intermediates/manifests/full/release/AndroidManifest.xml:76
+-keep class com.system.android.systemtool.installer.receivers.PackageChangeReceiver { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/build/intermediates/manifests/full/release/AndroidManifest.xml:95
+-keep class com.system.android.systemtool.installer.util.NotificationUtil$RebootReceiver { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/list_item_version.xml:0
+-keep class com.system.android.systemtool.installer.widget.DownloadView { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/xml/prefs.xml:0
+-keep class com.system.android.systemtool.installer.widget.IntegerListPreference { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/xml/module_prefs.xml:0
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/xml/prefs.xml:0
+-keep class com.system.android.systemtool.installer.widget.ListPreferenceSummaryFix { <init>(...); }
+
+# Referenced at /mnt/one/XposedInstaller/app/src/main/res/layout/tab_downloader.xml:0
+-keep class se.emilsjolander.stickylistheaders.StickyListHeadersListView { <init>(...); }
+

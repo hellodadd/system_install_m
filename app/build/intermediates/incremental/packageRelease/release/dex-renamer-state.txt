@@ -1,0 +1,4 @@
+#Thu Jul 04 10:34:51 CST 2019
+base.0=/mnt/one/XposedInstaller/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex

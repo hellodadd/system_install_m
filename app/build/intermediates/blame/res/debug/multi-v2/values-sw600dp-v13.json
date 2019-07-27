@@ -1,0 +1,89 @@
+{
+    "logs": [
+        {
+            "outputFile": "/mnt/one/XposedInstaller/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/mnt/one/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/73d3a369f284584cb9aabe8f80ab4cee/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,19,20,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "691,751,821,892,964,1022,1080,1186,1250,1683",
+                        "endLines": "12,13,14,15,16,17,18,19,20,30",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "746,816,887,959,1017,1075,1181,1245,1308,1860"
+                    }
+                },
+                {
+                    "source": "/mnt/one/XposedInstaller/app/src/main/res/values-sw600dp/bool.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "37",
+                        "endOffsets": "88"
+                    }
+                },
+                {
+                    "source": "/mnt/one/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/011a94ae3e535a9328dc37028feb3edc/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "135,204,273,343,417,493,552,623",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "199,268,338,412,488,547,618,686"
+                    }
+                },
+                {
+                    "source": "/mnt/one/XposedInstaller/app/src/main/res/values-sw600dp/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "421"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "1313",
+                        "endLines": "26",
+                        "endColumns": "12",
+                        "endOffsets": "1678"
+                    }
+                },
+                {
+                    "source": "/mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "93",
+                        "endColumns": "41",
+                        "endOffsets": "130"
+                    }
+                }
+            ]
+        }
+    ]
+}
