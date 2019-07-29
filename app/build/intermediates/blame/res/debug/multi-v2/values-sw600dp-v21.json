@@ -1,30 +1,6 @@
 {
     "logs": [
         {
-            "outputFile": "/mnt/one/XposedInstaller/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v21/values-sw600dp-v21.xml",
-            "map": [
-                {
-                    "source": "/mnt/one/XposedInstaller/app/src/main/res/values-sw600dp-v21/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "56",
-                        "endLines": "10",
-                        "endColumns": "12",
-                        "endOffsets": "581"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "9",
-                        "endColumns": "12",
-                        "endOffsets": "580"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/mnt/one/Sources/systemtool/system_install_m/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v21/values-sw600dp-v21.xml",
             "map": [
                 {

@@ -1,9 +1,307 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="68f17cfb-dc3f-4075-975f-85c299258b20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/.idea/workspace.xml" beforeDir="false" afterPath="/mnt/one/Sources/systemtool/system_install_m/.idea/workspace.xml" afterDir="false" />
       <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/app.iml" beforeDir="false" afterPath="/mnt/one/Sources/systemtool/system_install_m/app/app.iml" afterDir="false" />
-      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/source/buildConfig/debug/com/system/android/systemtool/installer/BuildConfig.java" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build.gradle" beforeDir="false" afterPath="/mnt/one/Sources/systemtool/system_install_m/app/build.gradle" afterDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_action_share.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_android.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_bookmark.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_bookmark_outline.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_check_circle.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_chip.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_close.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_cloud.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_cloud_download.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_cloud_off.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_delete.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_description.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_donate.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_error.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_flash.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_github.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_help.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_info.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_language.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_menu_refresh.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_menu_search.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_menu_sort.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_nav_about.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_nav_downloads.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_nav_install.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_nav_logs.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_nav_modules.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_nav_settings.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_nav_support.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_no_connection.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_no_image.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_notification.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_person.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_phone.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_save.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_scroll_down.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_scroll_top.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_send.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_verified.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_warning.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_warning_grey.xml" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_action_share.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_android.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_bookmark.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_bookmark_outline.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_check_circle.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_chip.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_close.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_cloud.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_cloud_download.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_cloud_off.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_delete.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_description.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_donate.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_error.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_flash.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_github.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_help.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_info.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_language.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_menu_refresh.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_menu_search.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_menu_sort.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_nav_about.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_nav_downloads.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_nav_install.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_nav_logs.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_nav_modules.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_nav_settings.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_nav_support.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_no_connection.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_no_image.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_notification.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_person.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_phone.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_save.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_scroll_down.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_scroll_top.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_send.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_verified.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_warning.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-hdpi/ic_warning_grey.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_action_share.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_android.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_bookmark.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_bookmark_outline.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_check_circle.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_chip.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_close.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_cloud.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_cloud_download.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_cloud_off.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_delete.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_description.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_donate.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_error.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_flash.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_github.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_help.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_info.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_language.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_menu_refresh.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_menu_search.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_menu_sort.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_nav_about.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_nav_downloads.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_nav_install.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_nav_logs.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_nav_modules.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_nav_settings.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_nav_support.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_no_connection.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_no_image.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_notification.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_person.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_phone.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_save.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_scroll_down.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_scroll_top.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_send.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_verified.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_warning.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-ldpi/ic_warning_grey.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_action_share.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_android.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_bookmark.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_bookmark_outline.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_check_circle.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_chip.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_close.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_cloud.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_cloud_download.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_cloud_off.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_delete.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_description.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_donate.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_error.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_flash.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_github.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_help.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_info.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_language.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_menu_refresh.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_menu_search.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_menu_sort.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_nav_about.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_nav_downloads.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_nav_install.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_nav_logs.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_nav_modules.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_nav_settings.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_nav_support.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_no_connection.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_no_image.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_notification.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_person.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_phone.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_save.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_scroll_down.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_scroll_top.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_send.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_verified.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_warning.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-mdpi/ic_warning_grey.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_action_share.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_android.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_bookmark.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_bookmark_outline.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_check_circle.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_chip.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_close.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_cloud.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_cloud_download.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_cloud_off.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_delete.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_description.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_donate.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_error.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_flash.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_github.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_help.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_info.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_language.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_menu_refresh.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_menu_search.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_menu_sort.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_nav_about.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_nav_downloads.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_nav_install.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_nav_logs.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_nav_modules.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_nav_settings.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_nav_support.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_no_connection.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_no_image.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_notification.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_person.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_phone.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_save.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_scroll_down.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_scroll_top.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_send.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_verified.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_warning.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xhdpi/ic_warning_grey.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_action_share.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_android.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_bookmark.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_bookmark_outline.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_check_circle.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_chip.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_close.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_cloud.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_cloud_download.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_cloud_off.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_delete.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_description.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_donate.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_error.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_flash.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_github.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_help.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_info.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_language.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_menu_refresh.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_menu_search.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_menu_sort.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_nav_about.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_nav_downloads.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_nav_install.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_nav_logs.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_nav_modules.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_nav_settings.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_nav_support.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_no_connection.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_no_image.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_notification.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_person.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_phone.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_save.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_scroll_down.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_scroll_top.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_send.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_verified.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_warning.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_warning_grey.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_action_share.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_android.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_bookmark.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_bookmark_outline.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_check_circle.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_chip.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_close.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_cloud.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_cloud_download.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_cloud_off.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_delete.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_description.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_donate.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_error.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_flash.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_github.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_help.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_info.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_language.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_menu_refresh.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_menu_search.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_menu_sort.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_nav_about.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_nav_downloads.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_nav_install.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_nav_logs.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_nav_modules.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_nav_settings.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_nav_support.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_no_connection.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_no_image.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_notification.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_person.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_phone.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_save.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_scroll_down.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_scroll_top.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_send.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_verified.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_warning.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_warning_grey.png" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/generated/source/buildConfig/release/com/system/android/systemtool/installer/BuildConfig.java" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/intermediates/proguard-rules/release/aapt_rules.txt" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/reports/lint-results-release-fatal.html" beforeDir="false" />
+      <change beforePath="/mnt/one/Sources/systemtool/system_install_m/app/build/reports/lint-results-release-fatal.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +315,19 @@
         <projects_view />
       </state>
     </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file:///mnt/one/Sources/systemtool/system_install_m/app/src/main/java/com/system/android/sysoperation/installer/ModulesFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="124" selection-start-line="124" selection-end-line="124" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,23 +368,6 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="build" type="462c0819:PsiDirectoryNode" />
               <item name="outputs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="system_install_m" type="b2602c69:ProjectViewProjectNode" />
-              <item name="system_install_m" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="outputs" type="462c0819:PsiDirectoryNode" />
-              <item name="apk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="system_install_m" type="b2602c69:ProjectViewProjectNode" />
-              <item name="system_install_m" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="outputs" type="462c0819:PsiDirectoryNode" />
-              <item name="apk" type="462c0819:PsiDirectoryNode" />
-              <item name="debug" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,7 +476,7 @@
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.25428414" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.25428414" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Build Variants" side_tool="true" />
       <window_info id="Image Layers" />
@@ -197,12 +491,21 @@
       <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.23510972" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.23510972" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Gradle" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Palette&#9;" />
     </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///mnt/one/Sources/systemtool/system_install_m/app/src/main/java/com/system/android/sysoperation/installer/ModulesFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

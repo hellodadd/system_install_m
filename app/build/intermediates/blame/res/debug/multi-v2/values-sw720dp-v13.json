@@ -14,21 +14,6 @@
                     }
                 }
             ]
-        },
-        {
-            "outputFile": "/mnt/one/XposedInstaller/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
-            "map": [
-                {
-                    "source": "/mnt/one/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/debffba2a274317d01e31d357fdb5672/res/values-sw720dp-v13/values-sw720dp-v13.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "41",
-                        "endOffsets": "92"
-                    }
-                }
-            ]
         }
     ]
 }
